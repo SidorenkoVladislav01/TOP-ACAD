@@ -33,3 +33,13 @@
 
 // let elem = document.querySelector('.elem')
 // console.log(elem)
+
+// let age = prompt('Возраст?', 18);
+
+// let message = (age < 3) ? 'Здравствуй, малыш!' :
+//   (age < 18) ? 'Привет!' :
+//   (age < 100) ? 'Здравствуйте!' :
+//   'Какой необычный возраст!';
+
+// alert( message );
+
